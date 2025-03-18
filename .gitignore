@@ -1,0 +1,9 @@
+.env
+__pycache__/
+training/football-players-detection-1
+yolov8x.pt
+stubs
+runs
+training\yolo11n.pt
+training\yolov5xu.pt
+*.pkl

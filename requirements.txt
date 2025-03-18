@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+numpy
+pillow
+pyyaml
+pandas
+torch
+torchvision
+ultralytics
+ffmpeg-python
+supervision
+scikit-learn
